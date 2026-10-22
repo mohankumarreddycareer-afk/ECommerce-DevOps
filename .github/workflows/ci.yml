@@ -1,5 +1,5 @@
+- name: Install dependencies
 name: E-Commerce CI
-
 on:
   push:
     branches: [main]
